@@ -1,0 +1,2 @@
+[console_scripts]
+fileorganizer = file_organizer.cli:main

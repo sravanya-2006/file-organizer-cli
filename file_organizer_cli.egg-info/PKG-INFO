@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: file-organizer-cli
+Version: 0.1
+Summary: A CLI tool to organize files by extension
+Author: Sravanya
+Requires-Python: >=3.6
+License-File: LICENSE
+Dynamic: author
+Dynamic: license-file
+Dynamic: requires-python
+Dynamic: summary
